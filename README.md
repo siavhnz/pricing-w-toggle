@@ -32,13 +32,18 @@ Users should be able to:
 
 - Solution: [frontendmentor.io](https://www.frontendmentor.io/?)
 
-- Live Site: [cloudflare](https://?.pages.dev/)
+- Live Site: [cloudflare](https://pricing-w-toggle.pages.dev/)
 
 ## My process
 
+- 1.Download assets, Install Vite & TailwindCss, Initialize git, README.md, Prepare project
+- 2.Work on component
+- 3.Control switch by keyboard
+- 4.Write README.md, Push to github, Make it live on Cloudflare, Publish to frontendmentor
+
 ### Work Time
 
-- [My Clockify Report](https://app.clockify.me/shared/?)
+- [My Clockify Report](https://app.clockify.me/shared/649c5169fd11e146bc33fc79)
 
 ### Built with
 
