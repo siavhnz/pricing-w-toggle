@@ -1,7 +1,11 @@
 import Pricing from "./components/pricing/Pricing";
 
 function App() {
-  return <Pricing />;
+  return (
+    <main>
+      <Pricing />
+    </main>
+  );
 }
 
 export default App;

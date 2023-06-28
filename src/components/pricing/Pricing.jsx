@@ -68,6 +68,7 @@ const Pricing = () => {
           annually
         </button>
         <IOSSwitch
+          aria-label="change plan"
           checked={isMonthly}
           onChange={() => setIsMonthly((prevState) => !prevState)}
         />
