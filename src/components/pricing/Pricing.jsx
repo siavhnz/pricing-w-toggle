@@ -36,7 +36,7 @@ const data = [
 ];
 
 const Pricing = () => {
-  const [isMonthly, setIsMonthly] = useState(false);
+  const [isMonthly, setIsMonthly] = useState(true);
 
   useEffect(() => {
     document.addEventListener("keydown", handleKeyDown);
@@ -68,7 +68,7 @@ const Pricing = () => {
           annually
         </button>
         <IOSSwitch
-          aria-label="change plan"
+          inputProps={{ "aria-label": "click to change plan" }}
           checked={isMonthly}
           onChange={() => setIsMonthly((prevState) => !prevState)}
         />
