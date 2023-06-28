@@ -1,12 +1,7 @@
-
+import Pricing from "./components/pricing/Pricing";
 
 function App() {
-
-  return (
-    <>
-      Pricing Component With Toggle
-    </>
-  )
+  return <Pricing />;
 }
 
-export default App
+export default App;
