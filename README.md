@@ -26,11 +26,11 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](./)
+![screenshot](./screenshot/screenshot.png)
 
 ### Links
 
-- Solution: [frontendmentor.io](https://www.frontendmentor.io/?)
+- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/pricing-component-with-toggle-IJ-Uw_A-1D)
 
 - Live Site: [cloudflare](https://pricing-w-toggle.pages.dev/)
 
@@ -60,6 +60,6 @@ Users should be able to:
 
 Thanks To
 
-[Frontendmentor.io](https://www.frontendmentor.io/challenges) - for their Excitement challenges  
+[Frontendmentor.io](https://www.frontendmentor.io/challenges) - for their Excitement challenges
 
 [Perfect Pixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en) - for such a great extension
